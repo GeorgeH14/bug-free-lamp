@@ -1,0 +1,5 @@
+print('Hello World')
+print('This is a new file in the bug-free-lamp directory.')
+print('This file is intended to demonstrate a simple Python script.')
+print('Feel free to modify and expand upon this code as needed.')
+print('Goodbye!')
