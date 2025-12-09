@@ -7,3 +7,5 @@ Added new python file - simple script
 Added images folder and added nothing into it
 
 Created shopping list
+
+Edited readme in github
