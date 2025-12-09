@@ -4,3 +4,7 @@ Eggs
 Bacon
 Bread
 Milk
+Cake
+Chocolate
+Cheese
+Olive Oil
